@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /*Analisando la edad de una persona*/
 
 var getEdad = function(){
@@ -14,3 +15,6 @@ var age = prompt("Ingrese su edad");
         alert("Usted tiene " + age + " años y es menor de edad");
     }
 };
+=======
+console.error('este es un mensaje de error')
+>>>>>>> origin/master
