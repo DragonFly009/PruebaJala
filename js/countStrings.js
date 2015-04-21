@@ -3,7 +3,7 @@
  */
 
 
-var cad = function(){
+var cadena = function(){
     var numPalabras = prompt("Ingrese un Parrafo");
     var cont = numPalabras.split(" ");
     //alert("el numero de palabras es " + cont.length);
